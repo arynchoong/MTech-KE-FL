@@ -1,3 +1,7 @@
+# MTech- KE-Text Mining
+
+Github repository for MTech KE Text Mining CA project team work
+
 # MTech-KE-fuzzy
 
 Github repository for MTech KE Fuzzy Logic CA project team work,  - FuzzyTech
