@@ -1,9 +1,0 @@
-Caught in/between Objects,25,[('lift', 4), ('cut', 2), ('move', 2), ('pull', 2), ('carry', 1)]
-Falls,42,[('instal', 5), ('perform', 4), ('stand', 3), ('dismantle', 2), ('carry', 2)]
-Drowning,5,[('clear', 1), ('use', 1), ('collect', 1), ('repair', 1), ('cross', 1)]
-Other,10,[('concrete', 1), ('reach', 1), ('drive', 1), ('surround', 1), ('patrol', 1)]
-Struck By Moving Objects,35,[('move', 4), ('lift', 4), ('drive', 4), ('carry', 3), ('stand', 2)]
-Collapse of object,3,[('wrap', 1), ('open', 1), ('collect', 1)],,,,
-Fires and Explosion,1,[('weld', 1)],,,,,,,,
-Electrocution,12,[('cut', 2), ('control', 1), ('knit', 1), ('test', 1), ('pour', 1)]
-Suffocation,3,[('inhale', 1), ('transfer', 1), ('pile', 1)],,,,
